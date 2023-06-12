@@ -1,0 +1,11 @@
+{
+  "nim"  : 123456,
+  "nama" : "Siti",
+  "gender" : "Wanita",
+  "Prodi" : "Sistem Informasi",
+  "Minat" : [
+    "DS",
+    "AI",
+    "WEB"
+  ]
+}
